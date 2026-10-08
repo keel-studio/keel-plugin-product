@@ -6,7 +6,7 @@ title: "keel Product"
 version: 0.0.0
 publisher: keel
 summary: "Initiatives, teams and product docs, from idea to the teams' stories, with their own workflows and agents. Beta."
-repo: https://github.com/MiladNalbandi/keel-plugin-product
+repo: https://github.com/keel-studio/keel-plugin-product
 license: MIT
 
 requires:
